@@ -1,7 +1,7 @@
 ---
-id: 2
+id: 3
 slug: back-day
-img: /back.jpg
+img: /back.jpeg
 label: FREE
 duration: 1 HOUR
 title: Back Day

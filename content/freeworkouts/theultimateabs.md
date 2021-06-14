@@ -1,7 +1,7 @@
 ---
 id: 1
 slug: the-ultimate-abs-tabata
-img: /ultimate-abs.jpg
+img: /ultimate-abs.jpeg
 label: FREE
 duration: 40 MINUTES
 title: The Ultimate Abs Tabata

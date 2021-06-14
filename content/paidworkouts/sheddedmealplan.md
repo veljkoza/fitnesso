@@ -2,7 +2,7 @@
 id: 3
 title: Shedded Meal Plan
 slug: shedded-meal-plan
-img: /shedded-meal.jpg
+img: /shedded-meal.jpeg
 duration: 30 DAYS
 category: nutrition
 discountedPrice: 89.99
