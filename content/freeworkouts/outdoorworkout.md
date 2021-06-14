@@ -1,7 +1,7 @@
 ---
 id: 2
 slug: the-perfect-outdoor-workout
-img: /outdoor.jpg
+img: /outdoor.jpeg
 label: FREE
 duration: 30 MINUTES
 title: The Perfect Outdoor Workout

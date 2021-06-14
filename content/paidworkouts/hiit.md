@@ -2,7 +2,7 @@
 id: 2
 title: High Intensity Training
 slug: high-intensity-training
-img: /high-intensity.jpg
+img: /high-intensity.jpeg
 duration: 7 DAYS A WEEK
 category: nutrition
 discountedPrice: 89.99
