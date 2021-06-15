@@ -3,7 +3,7 @@ id: 1
 title: The 10 best exercises to do in your park
 slug: the-10-best-exercises-to-do-in-your-park
 label: TRAINING
-img: /best-exercises.jpg
+img: /best-exercises.jpeg
 author: { name: CURTIS VANDERVORT, img: /author.jpeg }
 paragraphs:
   [

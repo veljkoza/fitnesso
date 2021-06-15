@@ -1,5 +1,5 @@
 <template>
- <nuxt-link :to="{path: workoutPath}">
+ <!-- <nuxt-link :to="{path: workoutPath}"> -->
       <article class="bg-gray-100 rounded-xl overflow-hidden shadow-lg">
     <div class="h-60">
       <img
@@ -20,7 +20,7 @@
       <button>Train now</button>
     </footer>
   </article>
- </nuxt-link>
+ <!-- </nuxt-link> -->
 </template>
 
 <script>

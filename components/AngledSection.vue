@@ -1,7 +1,7 @@
 <template>
-    <div class=" w-full relative h-96 flex flex-col justify-center">
-        <div class="statline bg-primary absolute inset-0   "></div>
-        <div class="relative grid grid-cols-1 md:grid-cols-3 items-center ">
+    <div class=" w-full relative  flex flex-col justify-center" :class="classes ? classes : 'h-96'">
+        <div class="statline absolute inset-0" :class="colorClass ? colorClass : ''"></div>
+        <div class="relative">
          <slot></slot>
         </div>
       </div>
@@ -9,7 +9,19 @@
 
 <script>
     export default {
-        name: "AngledSection"
+        name: "AngledSection",
+        props: {
+          classes: {
+            type: String,
+            default: '',
+            required: false
+          },
+          colorClass: {
+            type: String,
+            default: 'bg-primary',
+            required: false
+          }
+        },
     }
 </script>
 

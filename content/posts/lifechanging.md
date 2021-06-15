@@ -3,7 +3,7 @@ id: 3
 title: My life changing experience
 slug: my-life-changing-experience
 label: TRAINING
-img: /lifechanging.jpg
+img: /lifechanging.jpeg
 author: { name: CURTIS VANDERVORT, img: /author.jpeg }
 paragraphs:
   [

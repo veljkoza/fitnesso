@@ -1,9 +1,9 @@
 ---
 id: 2
 title: Healthy breakfast ideas
-slug: healthy-breakfest-ideas
+slug: healthy-breakfast-ideas
 label: WEIGHT LOSS
-img: /healthy-breakfest.jpg
+img: /healthy-breakfast.jpeg
 author: { name: CURTIS VANDERVORT, img: /author.jpeg }
 paragraphs:
   [
